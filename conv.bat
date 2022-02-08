@@ -1,0 +1,1 @@
+pyuic5 -x project.ui -o project.py
